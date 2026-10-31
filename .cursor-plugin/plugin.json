@@ -1,0 +1,16 @@
+{
+  "name": "friendmsg",
+  "displayName": "Friend messaging",
+  "version": "0.1.0",
+  "description": "Message accepted friends from Cursor and Grok Bot, and wake your bot when a friend writes.",
+  "author": {
+    "name": "friendmsg"
+  },
+  "repository": "https://github.com/RPate97/grok-msg",
+  "logo": "logo.png",
+  "keywords": ["friends", "messaging", "inbox", "mcp"],
+  "category": "integrations",
+  "tags": ["friends", "messaging", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

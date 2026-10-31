@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "friendmsg": {
+      "type": "http",
+      "url": "https://<domain>/api/mcp"
+    }
+  }
+}
